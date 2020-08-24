@@ -1,0 +1,22 @@
+.TechnicalServiceHeader {
+  &__wrapper {
+    background-color: #4E4D4D;
+    font-family: RobotoCondensed, Arial;
+    color: #4E4D4D;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10px;
+
+    .telnumber {
+      color: #FFFFFF;
+      font-size: 28px;
+    }
+
+    .address {
+      color: #F39200;
+      font-size: 21px;
+      text-align: right;
+    }
+
+  }
+}
